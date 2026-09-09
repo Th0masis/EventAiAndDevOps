@@ -37,22 +37,22 @@ Vysvětlí, co je možné s platformou B&R.
 Dá pár super demoů automatizovaného testování a nasazení.
 ```
 
-### NOTE-003 | poznámka: none
+### NOTE-003 | poznámka: některé věty přeformulovány
 ```
 
 <b>Sám jsem byl na mnoha AI přednáškách a konferencích.</b>
 Často se člověk vrátí domů s pocitem, že je úplně pozadu a že všichni ostatní rozluštili kód úspěchu s AI.<br><br>
 
 [CLICK]
-<b>Tak to samozřejmě dnes nemělo být!</b>
+<b>Dnes by to tak samozřejmě být nemělo!</b>
 
 NECHCEME ŘÍKAT:
 
 <b>Že máme standardní řešení, které vyřeší všechny vaše problémy</b> AI a DevOps jsou složité a musí se přizpůsobit každému scénáři a platformě!
 
-<b>Také vám nechceme prodávat produkt.</b> Vše, co vám dnes ukážeme, vám nic nestojí. Jde o workshop, ne o prodejní prezentaci!
+<b>Také vám nechceme prodávat produkt.</b> Vše, co vám dnes ukážeme, vám nic nestojí. Je to workshop, ne prodejní prezentace!
 
-<b>Nechceme mluvit o AGI, sci-fi a všem ostatním, co možná brzy přijde</b>
+<b>Nebudeme mluvit o AGI, sci-fi a všem, co by se mohlo stát za chvíli</b>
 
 [CLICK]
 MÍSTO TOHO CHCEME MLUVIT O:
@@ -61,7 +61,7 @@ AI v automatizačním průmyslu je <b>relativně nová</b>, a chceme se ujistit,
 
 Chceme informovat naše zákazníky a partnery o <b>naší strategii a směru.</b><br>
 
-Pokud neexistuje standardní řešení, jaké jsou možnosti na platformě B&R a <b>jak se pustíme do práce?</b>
+Pokud neexistuje standardní řešení, jaké jsou možnosti na platformě B&R a <b>jak začít?</b>
 
 [CLICK]
 
@@ -70,49 +70,49 @@ Rádi bychom si s vámi povídali / diskutovali. Prosím, pokládejte otázky ne
 Přechod: Podívejme se na to, jak se DevOps a Agentic Engineering navzájem doplňují.
 ```
 
-### NOTE-004 | poznámka: none
+### NOTE-004 | poznámka: některé věty přeformulovány, nebo nahrazeny
 ```
 [CLICK]
-<b>DevOps je přístup s různými fázemi</b>, kterými musí jít software. Každá fáze nastavuje požadavky, které zajišťují, že další fáze bude úspěšná. Musí se <b>buď provádět ručně, nebo se ručně předávat dál</b>. Pokud nejsou požadavky splněny dostatečně důkladně, nemá workflow žádnou skutečnou hodnotu. Proto to pro některé může vypadat rigidně a těžkopádně - i když je to nutnost pro poskytování vysoké kvality.
+<b>DevOps je postup sestávající z různých fází</b>, kterými musí software projít. Každá fáze nastavuje požadavky, které zajišťují, že další fáze bude úspěšná. Musí se <b>buď provádět ručně, nebo se ručně předávat dál</b>. Pokud nejsou požadavky splněny dostatečně důkladně, nemá workflow žádnou skutečnou hodnotu. Proto to pro některé může vypadat rigidně a těžkopádně - i když je to nutnost pro poskytování vysoké kvality.
 
 [CLICK]
 
 <b>Zavedením AI-Agentů do vašeho DevOps procesu existuje mnoho výhod. AgentOps</b>
 
-0. DevOps se stane rámcem pro AI, který zajišťuje kvalitu a předvídatelnost. (AI nejsou deterministické, jako lidé). Je to důležité, protože jsme nikdy nemohli dělat chyby rychleji, než nyní.
-1. Agenti VŽDY ctí své instrukce, na rozdíl od lidí. Nejsou dogmatičtí a nestěžují si na to, že je to rigidní!
-2. Velké části DevOps procesů lze automatizovat a ušetřit čas.
-3. Znalosti jsou ukládány v pracovních postupech, ne v jednotlivcích
-4. Můžeme stále mít plnou kontrolu nad procesem, pokud ho integrujeme chytře. To je základní požadavek v OT!
+0. DevOps se stává rámcem pro AI, který zajišťuje kvalitu a předvídatelnost. (AI, stejně jako lidé, není deterministická). To je důležité, protože nikdy jsme nebyli schopni udělat chybu rychleji než nyní.
+1. Agenti na rozdíl od lidí VŽDY dodržují své pokyny. Nejsou ani fanatičtí, ani si nestěžují, že je to rigidní!
+2. Velkou část procesů DevOps lze automatizovat a ušetřit tak čas.
+3. Znalosti se ukládají do pracovních postupů, nikoli do jednotlivců
+4. Stále můžeme mít plnou kontrolu nad procesem, pokud jej chytře integrujeme. To je v OT zásadní požadavek!
 
 [CLICK]
 <b>DevOps se tedy stane samotným rámcem pro AI <br> 
-a AI činí rámec super efektivním!</b>
+a AI činí tento rámec super efektivním!</b>
 
 ```
 
-### NOTE-005 | poznámka: Opraveno "it OT" → "v OT"
+### NOTE-005 | poznámka: Opraveno "it OT" → "v OT",některé věty přeformulovány
 ```
-Zkusme se podívat, jak by mohla vypadat investice času jedné osoby během fáze vývoje:
+Pojďme se podívat, jak by mohla vypadat investice času jedné osoby během fáze vývoje:
 
 [CLICK]
 <b>Nahoře: Bez DevOps:</b> Člověk rychle přeskakuje plánování a design. Začínáme od prvního dne. Je to sakra vzrušující!
 
-Stavíme dlouho, protože se specifikace neustále mění a software se stal komplexním. Možná jsme to měli pojmout jinak? Ale teď je pozdě!
+Vývoj trvá dlouho, protože se specifikace neustále mění a software se stal komplexním. Možná jsme to měli pojmout jinak? Ale teď už je pozdě!
 
 Čas je pryč a lhůta je tady, nasazujeme, co máme.
 
 Faktura přichází po vydání jako opravy chyb. Člověk nikdy neví, kdy dosáhne přijatelné fáze, a cena je tedy nepředvídatelná!
 
 [CLICK]
-<b>Uprostřed: S DevOps:</b> Je to z výše uvedeného důvodu, že DevOps je nutností. Ale v OT je často příliš drahé implementovat pro malé/střední jednorázové projekty. A všechny projekty přece začínají jako jednorázové projekty, dokud nepostaví stroj číslo 2 :-).   
+<b>Uprostřed: S DevOps:</b> Z výše uvedeného vyplývá, že DevOps je nutností. Ale v OT je často příliš drahé implementovat pro malé/střední jednorázové projekty. A všechny projekty přece začínají jako jednorázové projekty, dokud nepostaví stroj číslo 2 :-).   
 
 Řádné plánování a design stojí čas, ale jsou celým základem pro vývoj a testování dobré kvality. Opravy chyb se minimalizují, čas je již ušetřen a konečné náklady jsou předvídatelnější. Je jen často těžké zdůvodnit dodatečné počáteční investice
 
 [CLICK]
-<b>Dole: AgentOps:</b> Investice času se posunuje ještě dále vpřed v procesu. Agenti nemají žádnou paměť ani vnitřní znalost o "best practice". Všechno musí být velmi explicitně definováno, aby se zabránilo nedorozuměním. Pracovní postupy a instrukce musí být donešeny do detailu.
+<b>Dole: AgentOps:</b> Investice času se posunuje ještě dále vpřed v procesu. Agenti nemají žádnou paměť ani vnitřní znalost o "best practice". Všechno musí být velmi explicitně definováno, aby se zabránilo nedorozuměním. Pracovní postupy a pokyny musí být bezchybné a dotažené do detailu.
 
-Výměnou se vývoj redukuje na zlomek. Možná dokonce na 0, protože proces neblokuje práci na čemkoli jiném mezitím.
+Naopak vývoj se zkrátí na zlomek původního času. Možná dokonce na 0, protože proces neblokuje práci na čemkoli jiném mezitím.
 Recenze a rozhodnutí o vydání zůstávají stále u nás.
 
 <b>Uvolněný čas není nutně bezplatný zisk</b> - lze ho investovat do lepšího kontextu, lepších testů a lepší správy a rozhodování.
@@ -122,20 +122,20 @@ Poprvé v dlouhé době je možné výrazně zvýšit kvalitu bez potřeby inves
 Přechod: Jaký je rozdíl mezi ChatGPT a OT Super Agentem?
 ```
 
-### NOTE-006 | poznámka: none
+### NOTE-006 | poznámka: některé věty přeformulovány
 ```
 Co je Agent?
 
 Skládá se v zásadě ze dvou nezávislých komponent.
 LLM (jazykový model) a Harness.
 
-Mnozí vidí LLM jako kouzelnou komponentu, která dělá rozdíl. Je to ta, která si vezme všechnu pozornost, ale prostředí, ve kterém pracuje, má minimálně stejný vliv na výsledek.
+Mnozí vidí LLM jako magickou komponentu, která dělá rozdíl. Je to ta, která si vezme všechnu pozornost, ale prostředí, ve kterém pracuje, má minimálně stejný vliv na výsledek.
 
 LLM se neustále mění. Příští týden to může být úplně jiný model, který je buď lepší, nebo levnější.
 
 LLM a Harness jsou proto nezávislé komponenty, kde my (převážně) nemáme vliv na samotný model, ale máme velký vliv na harness, kde se používá.
 
-Model sám nemá přístup k Automation Studio, projektu, PLC nebo simulátoru. Může pracovat jen s kontextem, který dostane, a posoudit, jak bude používat nástroje, které mu harness poskytuje.
+Model sám nemá přístup k Automation Studio, projektu, PLC nebo simulátoru. Může pracovat pouze s kontextem, který mu je dán, a posoudit, jak bude používat nástroje, které jeho Harness zpřístupňuje.
 
 Agent vzniká, když model může zvolit nástroj, zavolat jej, vidět výsledek a rozhodnout o dalším kroku. Harness je prostředí kolem agenta:
 
@@ -144,15 +144,15 @@ Instructions: Agent.md. Skills. Co by měla umět. Co by měla dělat?<br>
 [CLICK]
 Context: V čem pracujeme?<br>
 [CLICK]
-Tools: Na co by měl agent mít přístup mimo? Nebo lokálně na vašem počítači?<br>
+Tools: K čemu by měl mít agent přístup ve vnějším světě? Nebo lokálně na vašem počítači?<br>
 [CLICK]
-Memory: Protože je LLM zcela bez stavu, musí existovat něco, co drží historii. Možná ji sdílet i mezi relacemi.<br>
+Memory: Protože LLM je zcela bezstavový, musí existovat něco, co uchovává historii. Možná ji také sdílí mezi relacemi.<br>
 [CLICK]
 Permissions: Co smí agent dělat sám? Které nástroje smí používat?<br>
 [CLICK]
-Logs: Zaznamenává, co agent dělal. Které nástroje zavolal. Spawnil subagenty? Jaké odpovědi od nich dostal?<br>
+Logs: Zaznamenává, co agent dělal. Které nástroje zavolal. Vytvořil subagenty? Jaké odpovědi od nich dostal?<br>
 [CLICK]
-Feedback: Agent se vás může poradit (agent vás promptuje). Co si myslíte? Měl bych zvolit X nebo Y?<br>
+Feedback: Agent se vás může zeptat na radu (agent vás vyzve). Co si o tom myslíte? Mám zvolit X nebo Y?<br>
 [CLICK]
 Approvals: Musíte agentovi dát oprávnění nebo přístup k vašemu počítači. Mohu smazat váš C-disk?<br>
 
@@ -163,26 +163,26 @@ Agent je LLM v Harnessu!
 Přechod: Proč se to stalo rychleji v IT než v OT? Proč neexistují agenti, kteří by mohli dělat AS stejně dobře jako vyvíjí weby?
 ```
 
-### NOTE-007 | poznámka: Opraveno "harmle op med" → význam "držet krok s"
+### NOTE-007 | poznámka: Opraveno "harmle op med" → význam "držet krok s",některé věty přeformulovány
 ```
-Dlouhá léta se mluvilo o tom, že IT a OT se budou slévat. Bylo to také částečně pravda. Mnoho nástrojů používaných v IT je nyní dostupných i pro OT. (Pracujeme s AS v VS-Code a Docker. Víme, že tam ještě nejsme úplně)
+Již mnoho let se „někteří“ zmiňují o tom, že se IT a OT budou prolínat. Do jisté míry to také platí. Mnoho nástrojů používaných v IT je nyní k dispozici i pro OT. (Pracujeme na AS ve VS Code a Dockeru. Jsme si vědomi, že ještě nejsme úplně u cíle.)
 
-<b>Ale protože AI začala být součástí stacku, IT opravdu opět "utekla".</b>
+<b>Od té doby, co se AI stala součástí technologického stacku, se IT opět začalo „vzdalovat“.</b>
 
 Není to proto, že bychom neměli stejné dovednosti v OT, ale protože IT a celý přístup <b>open source</b> jde opravdu rychle.
 
 <b>LLM jsou již trenovány na nekonečně mnoho IT projektů</b>, zatímco OT je téměř vždy uzavřený zdroj. Jak pokud jde o samotnou platformu automatizace, tak i o doménu, se kterou pracujete. Jak funguje slévací stroj nebo lisovací stroj?
 
-IT už má nástroje a kontext jako přirozenou součást vývojového prostředí: správu verzí, API, CLI a diagnostiku. Modely a agenti se proto mohou rychle připojit ke stávajícímu feedback loopu.
+IT už má nástroje a kontext jako přirozenou součást vývojového prostředí: správu verzí, API, CLI a diagnostiku. Modely a agenti se proto mohou rychle připojit k existující zpětnovazební smyčce.
 
 <b>Přestože máme stejné dovednosti</b> nemůžeme držet krok s inovacemi, které se právě nyní dějí v IT
 
 V OT musíme sami ve větší míře vyvíjet odpovídající nástroje a kontext, se kterým může AI pracovat. OT navíc má fyzické důsledky, dlouhé cykly životnosti, závislosti na hardwaru a verzích, pohyb, bezpečnost a méně standardizovanou zpětnou vazbu.
 
 [CLICK]
-<b>Proto úkol není dostat AI do OT, ale udělat OT přístupnou pro AI.</b>
+<b>Úkolem proto není zavést AI do OT, ale zpřístupnit OT pro AI.</b>
 
-Přechod: Největší propastí je rozdíl mezi generováním kódu a ověřením kódu.
+Přechod: Největší propastí je rozdíl mezi generováním kódu a jeho kódu.
 ```
 
 ### NOTE-008 | poznámka: none
@@ -200,12 +200,12 @@ Nemůžeme konkurovat IT. Musíme se přizpůsobit. Nemůžeme trénovat naše v
 
 [CLICK]5. <b>Musíme definovat některé pokyny (guardrails) pro to, jak může a smí agent pracovat v AS projektu. Např: vždy aktualizuj pkg-soubor, přidej soubory do textsystému atd.  B&R + OEM   </b>
 
-Přechod: Když je základ na místě, můžeme zavřít průmyslový engineering loop.
+Přechod: Jakmile bude základ na místě, můžeme uzavřít smyčku průmyslového inženýrství.
 ```
 
-### NOTE-009 | poznámka: none
+### NOTE-009 | poznámka: Přeformulování většiny odstavcu
 ```
-<b>Naše strategie se změnila</b> a možná nebylo tak jasné, kam vlastně teď míříme. Již nebudeme předtrénovat nebo fine-tune svůj vlastní model jako uzavřený AS-Copilot ekosystém. <b>To byla jednou správná volba</b>, protože modely nebyly schopny kódovat PLC. To se změnilo!
+<b>Naše strategie se změnila</b> a možná nebylo tak jasné, kam vlastně teď míříme. Již nebudeme předtrénovat nebo dolaďovat svůj vlastní model jako uzavřený AS-Copilot ekosystém. <b>To byla jednou správná volba</b>, protože modely nebyly schopny programovat PLC. To se změnilo!
 
 [CLICK]
 Naštěstí:
@@ -215,37 +215,37 @@ Naštěstí:
 
 a <b>nadměrně kompletní tréninkový soubor</b> může dát modelu více znalostí, než jaké jednotlivý zákazník potřebuje, a skončit s halucinacemi. Co když používám pouze X20?
 
-K tomu všemu přidejte <b>průběžné fine-tuning, vyhodnocení a údržbu.</b>
+K tomu všemu přidejte <b>průběžné ladění, vyhodnocení a údržbu.</b>
 
 <b>Uzamčeme se na jednu model,</b> ačkoli různé úkoly vyžadují různé modely, a
 
-<b>B&R-hostovaný model</b> omezuje volbu AI poskytovatele zákazníka a možná dokonce koliduje s pokyny IP zákazníka.
+<b>B&R-hostovaný model</b> omezuje zákazníkovi výběr dodavatele AI a může dokonce vést ke konfliktům s jeho směrnicemi o duševním vlastnictví.
 
 [CLICK]
 Co tedy děláme?
 
 [CLICK]
-Naše platforma je již otevřená a textová. <b>Proto můžeme vytvořit trvalejší hodnotu pomocí context engineering a harness engineering s modely a harnessy, které již existují a přijdou v budoucnosti:</b>
+Naše platforma je již otevřená a textová. <b>Proto můžeme vytvořit trvalejší hodnotu pomocí kontextového inženýrství a harnessového inženýrství s modely a harnessy, které již existují a které přijdou v budoucnosti:</b>
 
 [CLICK]
-B&R by měla vlastnit most / integraci a hranici domény, ne všechny vrstvy AI stacku. Pak můžeme použít nejlepší novou technologii, aniž by musel zákazník koupit uzavřený a zastaralý B&R ekosystém.
+B&R by měla vlastnit most / integraci a hranici domény, ne všechny vrstvy AI stacku. Pak můžeme nejlepší nové technologie, aniž by musel zákazník koupit uzavřený a zastaralý B&R ekosystém.
 
-Přechod: To je směr, kterým nyní pokračujeme v budování, a který otevřel možnost, aby my například zde v Dánsku mohli přispět potřebné integrací.
+Přechod: To je směr, na kterém nyní dále stavíme a který nám zde v Dánsku otevřel možnost přispět například k nezbytné integraci.
 ```
 
 ### NOTE-010 | poznámka: Opraveno "interressant" → "zajímavé"; "skallerer" → "škáluje se"
 ```
-Ukončeme úvod shrnutím:
+Zakončíme úvod shrnutím:
 Proč je to zajímavé? Proč byste měli investovat svůj čas do AE?
 
 [CLICK]
-1. Musíte pochopit, že AI je dalším přirozeným abstraktním vrstvou. Ti, kteří umějí AI efektivně používat, budou kdykoli překonávat ty, kteří to nezvládnou! Nebudeme nezaměstnaní, jen posuneme zaměření výše po žebříku abstrakce. Ne abychom byli líní, ale abychom dosáhli více ve světě, který očekává více.
+1. Je třeba si uvědomit, že AI je dalším přirozeným abstraktním vrstvou. Ti, kteří umějí AI efektivně používat, budou kdykoli překonávat ty, kteří to nezvládnou! Nebudeme nezaměstnaní, jen posuneme zaměření výše po žebříku abstrakce. Ne abychom byli líní, ale abychom dosáhli více ve světě, který očekává více.
 
 [CLICK]
-2. Ať už milujete AI nebo máte plnou skepsi, musíte uznat, že se stalo součástí stacku a je tu, aby zůstalo. Osobně si myslím, že být inženýr se stalo 100krát zábavnější. Děláme neuvěřitelné věci a překvapuje nás to každý den.
+2. Ať už milujete AI nebo máte plnou skepsi, musíte uznat, že se stalo součástí technologického stacku a je tu, aby zůstala. Osobně si myslím, že být inženýr se stalo 100krát zábavnější. Děláme neuvěřitelné věci a překvapuje nás to každý den.
 
 [CLICK]
-3. Znalosti se ukládají v systému místo v jednotlivcích. Systém nemusí na dovolenou, na mateřskou, nemůže být nemocný nebo (Bůh chraň) si vzít výpověď.
+3. Znalosti se ukládají v systému místo v jednotlivcích. Systém nemusí na dovolenou, na mateřskou, nemůže být nemocný nebo (Bůh chraň) podat výpověď.
 
 [CLICK]
 4. Máme možnost znovu investovat svůj čas v dosažení lepší kvality a kontinuálním optimalizací, která vede k větší autonomii a větší důvěryhodnosti.
@@ -261,7 +261,7 @@ Neslibujeme úspěch. Chceme odstranit bariéry, které vám mohou stát v cest�
 Přechod: Konec úvodu.
 ```
 
-### NOTE-011 | poznámka: none
+### NOTE-011 | poznámka: Přeformulování většiny odstavcu
 ```
 Než přejdeme na další bod programu:
 
@@ -273,22 +273,22 @@ Než přejdeme na další bod programu:
 
 Nejdůležitější není AI model ani agent. Je to workflow.
 
-Model se dá vyměnit. Harness se dá změnit. Ale workflow definuje, jak se idea stane ticketem, jak se řešení implementují, recenzují a testují a kdo nakonec může rezultát schválit.
+Model se dá vyměnit. Harness se dá změnit. Ale workflow definuje, jak se nápad stane ticketem, jak se řešení implementují, revidují a testují a kdo nakonec může výsledek schválit.
 
-Je to živý engineering-systém. Měl by být verzován, měřen, udržován a vylepšován, přesně jako ostatní části vaší platformy.
+Je to živý engineering-systém. Musí být spravován pomocí verzí, měřen, udržován a vylepšován, přesně jako ostatní části vaší platformy.
 ```
 
-### NOTE-012 | poznámka: none
+### NOTE-012 | poznámka: Přeformulování většiny odstavcu
 ```
-Jak staré je vibe-coding pojetí? (únor 25)
+Jak starý je pojem vibe-coding ? (únor 2025)
 
-Fenomén, který se objevil přibližně před 1,5 rokem. Popište, co chcete, a iterujte, dokud nejste spokojeni.
+Fenomén, který se objevil přibližně před 1,5 rokem. Popište, co chcete, a opakujte to, dokud nebudete spokojeni.
 
 Vibe coding může být efektivní pro učení a prototypy. Sami jsme hodně vibecodovali. Ne na vašich strojích samozřejmě ;) Ale pro rychlé interní nástroje, pro POC a pro ladění není nic špatného na tom, jen se pustit bez plánu.
 
 Ale pro skutečné stroje, které musí splňovat spoustu požadavků, to zřídka bývá dobrý proces.
 
-Když to postavíme proti "Agentic Engineering", je to proto, aby se ukázalo, že AI není kouzlo. Musíme jej držet v rukou stále a vlastnit proces. AI agenti nejsou determinističní (stejně jako lidé). Potřebují vedení (ve formě guardrails) a kvalitativní brány, které umožní procesu pokračovat.
+Když to postavíme proti "Agentic Engineering", je to proto, aby se ukázalo, že AI není kouzlo. Musíme jej držet v rukou stále a vlastnit proces. AI agenti nejsou determinističní (stejně jako lidé). Potřebují vedení (ve formě guardrails) kontrolních bodů kvality, které umožní, aby proces mohl pokračovat.
 
 Pokud neřídíte proces, ztratíte přehled.
 
@@ -297,28 +297,28 @@ V IT možná není tolik problém, když je web nedostupný 5 minut, ale v OT ne
 
 ```
 
-### NOTE-013 | poznámka: none
+### NOTE-013 | poznámka: Přeformulování většiny odstavcu
 ```
-Zkusme se podívat na konkrétní příklad, který zbytek workshopu má řešit.
+Zkusme se podívat na konkrétní příklad, který budeme v průběhu workshopu řešit.
 
-<b>Feature request:</b> Když transportérová osa selže, měl by se stroj řízeně zastavit. Clear by měl vyprázdnit všechny lahve, které ještě nemají uzávěr - bez ohledu na to, zda jsou prázdné nebo plné - a počítají se jako reject. Čítač si uchovává svou hodnotu a dávka pokračuje od stejného čísla od začátku, dokud není hotových 100 lahví.
+<b>Feature request:</b> V případě poruchy osy dopravníku se stroj musí řízeně zastavit. Funkce „Clear“ musí odstranit všechny láhve, které ještě nebyly uzavřeny – bez ohledu na to, zda jsou prázdné nebo plné – a tyto láhve se započítávají jako zmetky. Počítadlo si zachová svou hodnotu a dávka pokračuje od stejného čísla jako na začátku, dokud nebude dokončeno 100 lahví.
 
-Ukažte chybu a požadovaný výsledek, ale zatím nevysvětlujte řešení. Místo toho položte otázku workshopu: <b>Jak můžeme delegovat implementaci agentovi, aniž by se agent stal zároveň specifikací, testerem a schvalovatelem?</b>
+Ukažte chybu a požadovaný výsledek, ale zatím nevysvětlujte řešení. Místo toho položte pro workshopu: <b>Jak můžeme delegovat implementaci agentovi, aniž by se agent stal tvůrcem specifikace, testerem a schvalovatelem? </b>
 
-Zbytek workshopu buduje odpověď: MCP dodává znalosti, AS CLI provádí a pozoruje, skills a guardrails řídí práci, testy poskytují důkazy a lidé spolu s branami rozhodují, zda změna může pokračovat.
+Zbytek workshopu staví na této odpovědi: MCP poskytuje znalosti, AS CLI provádí a sleduje, dovednosti a ochranná opatření řídí práci, testy poskytují důkazy a lidé spolu s kontrolními body rozhodují, zda může změna pokračovat.
 
 [CLICK]
 Přechod: Aby to bylo možné, musí mít agent připojení k Automation Studio, Automation Runtime a doménové znalosti, které umožní uzavřít feedback loop.
 ```
 
-### NOTE-014 | poznámka: none
+### NOTE-014 | poznámka: Přeformulování většiny odstavcu
 ```
 Co tedy můžeme nabídnout, abychom odpověděli na otázku?
 
-Pokud se podíváte na LinkedIn nebo otevřete naši webovou stránku, uvidíte tuto marketingovou kampaň pro: Automation Studio Agentic Bridge. Několik lidí mě kontaktovalo a ptalo se, co to je. Doufám, že už teď máte představu, ale i přesto, že to není zcela definitivně definováno nebo vydáno (AS6.9), pojďme si to projít.
+Pokud se podíváte na LinkedIn nebo otevřete naši webovou stránku, uvidíte  marketingovou kampaň pro: Automation Studio Agentic Bridge. Několik lidí mě kontaktovalo a ptalo se, co to je. Doufám, že už teď máte představu, ale i přesto, že to není zcela definitivně definováno nebo vydáno (AS6.9), pojďme si to projít.
 
 [CLICK]
-Agentic Bridge je integrací doménové znalosti a nástrojů z jakéhokoli agenta (tedy jakéhokoli harness s jakýmkoli modelem)
+Agentic Bridge představuje integraci doménových znalostí a nástrojů z jakéhokoli agenta (tj. z jakéhokoli harnessu s jakýmkoli modelem)
 
 [CLICK]
 <b>Skládá se</b> z pokynů, skills a hooks pro vedení agenta při práci na AS projektu
@@ -326,18 +326,18 @@ Agentic Bridge je integrací doménové znalosti a nástrojů z jakéhokoli agen
 
 <b>Skládá se</b> z MCP serveru, který může poskytovat doménovou znalost agentovi o: B&R produktech, Automation Studio, Structured Textu, AS-Help, anonymizovaných support ticketech, prodejních upozorněních, manuálech, release notes atd. Tento MCP server je již nyní dostupný a je to oficiální B&R MCP server.
 
-<b>Skládá se z Command Line Interface pro Automation Studio</b>: CLI jsme postavili zde v Dánsku. Zpočátku jako neoficiální produkt, ale nyní jako integrovanou součást Automation Studio. CLI zpřístupňuje řadu funkcí agentovi, takže může budovat projekt, simulovat, číst/psát proměnné, číst logbook atd.
+<b>Skládá se z rozhraní příkazového řádku pro Automation Studio</b>: CLI jsme postavili zde v Dánsku. Zpočátku jako neoficiální produkt, ale nyní jako integrovanou součást Automation Studio. CLI zpřístupňuje řadu funkcí agentovi, takže může budovat projekt, simulovat, číst/psát proměnné, číst logbook atd.
 
 [CLICK]
-Samozřejmě nejste omezeni na skills, MCP a nástroje, které jsou součástí Agentic Bridge. Samozřejmě můžete stále používat tisíce skills, MCP serverů a CLI, které existují, a samozřejmě si vytvořit své vlastní, které propojují tu doménovou znalost nebo systémy, ke kterým chcete přistupovat.
+Samozřejmě nejste omezeni na dovednosti, MCP a nástroje, které jsou součástí Agentic Bridge. Stále můžete samozřejmě využívat tisíce existujících dovedností, MCP serverů a CLI a samozřejmě si vytvářet vlastní, které propojují znalosti dané domény nebo systémy, ke kterým chcete přistupovat.
 
 přechod: Kolik z vás ví, co je MCP server?
 
 ```
 
-### NOTE-015 | poznámka: none
+### NOTE-015 | poznámka: Přeformulování prvního odstavce
 ```
-MCP znamená Model Context Protocol. Myslete na to jako na sémantické tool-API: server popisuje své nástroje a zdroje, aby je model mohl objevit a používat standardizovaným způsobem.
+MCP je zkratka pro Model Context Protocol (Model Context Protocol). Představte si ho jako sémantické nástrojové API: server popisuje své nástroje a zdroje, aby je model mohl standardizovaným způsobem objevit a používat.
 
 [CLICK]
 <b>Příkladem by byl oficiální GitHub MCP server.</b>
@@ -353,10 +353,10 @@ Manifest není samotná data ani provádění. Poskytuje modelu katalog dostupn�
 MCP server tedy zpřístupňuje své funkce přes standardní rozhraní, kterému agent rozumí
 ```
 
-### NOTE-016 | poznámka: none
+### NOTE-016 | poznámka: Přeformulování několika vět
 ```
-Rádi bychom trochu propagovali naši vlastní AS-Help MCP, která je k dispozici na GitHubu. Sami si myslíme, že je MEGA dobrá!
-Když se AS-Help MCP poprvé spustí, přečte si místní složku Automation Studio help a vytvoří vyhledávací index. Neukládá pouze hledaný text, ale také page_id, název, cestu k souboru a breadcrumb, takže trefu lze sledovat zpět na správnou stránku.
+Rádi bychom propagovali náš vlastní AS-Help MCP, který je k dispozici na GitHubu. Myslíme si, že je MEGA dobrý!
+Při prvním spuštění AS-Help MCP přečte lokální složku nápovědy Automation Studia a vytvoří index vyhledávání. Ukládá nejen hledaný text, ale také page_id, název, cestu k souboru a navigační cestu, aby bylo možné najít správnou stránku.
 
 [CLICK]
 [CLICK]
@@ -377,22 +377,22 @@ Agent pak používá page_id v get_page_by_id k načtení úplného textu, metad
 
 [CLICK]
 
-Protože je projekt open source, lze jej snadno zkopírovat do jiných help systémů např. třetí strany. Jste k tomu vítáni!
+Protože je projekt open source, lze jej snadno zkopírovat do jiných help systémů např. třetí strany. Neváhejte a udělejte to!
 
 Myslíme si, že v mnoha věcech je výhodou, že MCP server má přístup POUZE k vaší lokální nápovědě, a tedy ne k technologiím, které nemáte nainstalované, nebo novějším verzím, které nepoužíváte. Samozřejmě nemůže používat celý katalog B&R jako data, ale pokud se má zabývat pouze vaším strojem, je to často i to nejlepší.
 
 přechod: Pokud potřebujete nadměrně kompletní znalost, můžete použít oficiální B&R MCP server
 ```
 
-### NOTE-017 | poznámka: none
+### NOTE-017 | poznámka: Ta -> Ten
 ```
 Oficiální B&R MCP
 
-Ta, která je součástí Agentic Bridge. Obsahuje více B&R znalostí než jen nápovědu, ale má také určitá omezení.
+Ten, který je součástí Agentic Bridge. Obsahuje více znalostí o B&R než jen nápovědu, ale má také určitá omezení.
 
 1. Neodráží pouze produkty a knihovny, které používáte/máte nainstalovány, ale všechno, co je dostupné.
 
-2. Je hostován na cloudové službě B&R. Vaše promptové zadání se odesílá z vašeho počítače, ale nezaznamenává se ani neanalyzuje.
+2. Je hostován na cloudové službě B&R. Vaše promptové zadání se odesílá z vašeho počítače, ale nezaznamenávají se ani neanalyzují.
 
 3. Neposkytuje reference na všechny odpovědi, protože některá data nejsou dostupná jako PDF nebo help URL.
 
@@ -452,13 +452,13 @@ přechod: To je to, co lze udělat se správnou doménovou znalostí. Ale co kdy
 <b>Pokud pauza, tak TEĎ!</b>
 ```
 
-### NOTE-020 | poznámka: none
+### NOTE-020 | poznámka: Přeformulování věty
 ```
 <b>Pokud pauza, tak TEĎ!</b>
 
 `AS CLI` je rozhraní příkazového řádku, které může používat člověk, skript, automatizovaný test, CI pipeline i agent.
 
-AS CLI je samotnou páteří Agentic Bridge a je to něco, <b>co jsme vyvinuli zde v Dánsku</b>. Je to víceméně kompletní rozhraní k Automation Studio 6 a umí spoustu stejných věcí, které se jinak musí provádět ručně v Automation Studio. <b>Kromě samotných runtime funkcí, na které se podíváme za chvíli, umí také přidávat knihovny, hardware, úkoly, HMI, konfigurace atd.</b> Přestože je to samozřejmě jen text, je spolehlivější použít existující scriptovací engine za AS, takže se vše vloží správně a nakonfiguruje s platnými parametry.
+AS CLI je samotnou páteří Agentic Bridge a je to něco, <b>co jsme vyvinuli zde v Dánsku</b>. Je to víceméně kompletní rozhraní k Automation Studio 6 a umí spoustu stejných věcí, které se jinak musí provádět ručně v Automation Studio. <b>Kromě samotných runtime funkcí, na které se podíváme za chvíli, umí také přidávat knihovny, hardware, úkoly, HMI, konfigurace atd.</b> I když se samozřejmě jedná pouze o text, je spolehlivější použít stávající skriptovací engine za AS, aby bylo vše správně vloženo a nakonfigurováno s platnými parametry.
 
 Otevírá Automation Studio v headless režimu (bez GUI) a připojuje se přímo k backendu v AS. Všechny funkce a stavy jsou dostupné přes json-rpc rozhraní, které usnadňuje stavbu dalších systémů na tomto základě. Pravděpodobně to bude také to, co využije naše oficiální rozšíření pro VS Code.
 
@@ -516,18 +516,18 @@ ukázat <b>grill-with-docs</b>
 přechod: Ale nevyhnete se vytváření vlastních skills. Máte své vlastní požadavky, své vlastní principy a své vlastní standardy.
 ```
 
-### NOTE-022 | poznámka: opraveno "skillet" (dánský určitý tvar) → "skill"
+### NOTE-022 | poznámka: opraveno "skillet" (dánský určitý tvar) → "skill",Přeformulování věty
 ```
 Skills spadají do dvou nezávislých dimenzí.
 
 <b>První dimenze</b> je, jak se aktivují.
 
-<b>Model-invoked skill</b> leží připravený a je načítán agentem samotným, když agent usoudí, že obsah je relevantní pro danou práci.
+<b>Model-invoked skill</b> je přítomna a načtena samotným agentem, když se agent domnívá, že obsah je relevantní pro daný úkol.
 
 <b>User-invoked skill</b> voláte vědomě, jako uložený prompt pro provedení určité akce nebo rutiny.
 
 
-<b>Druhá dimenze</b> je, zda si pamatují něco z jednoho běhu na druhý. Stateless skill se spustí jednou a zapomene. Stateful skill si buduje a znovu využívá předchozí výstupy v budoucích sezeních.
+<b>Druhá dimenze</b> je, zda si pamatují něco z jednoho běhu na druhý. Stateless skill (Bezstavová dovednost ) se spustí jednou a zapomene. Stateful skill (Stavová dovednost ) si buduje a znovu využívá předchozí výstupy v budoucích sezeních.
 
 
 Tyto dvě dimenze se volně kombinují, takže vzniknou čtyři typy skills. Volte vědomě, když navrhujete nový skill. Zde je několik příkladů:
@@ -577,11 +577,11 @@ Principy bezpečnosti
 přechod: Guardrails pomáhají vést agenta při specifikaci, implementaci a review. Ale co testy?
 ```
 
-### NOTE-024 | poznámka: none
+### NOTE-024 | poznámka: Přeformulování věty
 ```
 Nebudu o testech mluvit příliš mnoho. Mads se do toho pustí mnohem víc za chvíli.
 
-Je ale důležité říct, že testy jsou nepostradatelné, když kódujete s agenty. AI není deterministická, takže potřebujeme spolehlivé brány, které dokážou validovat náš software. Testy fungují jak jako zpětná vazba pro agenta, tak stejně tak jako dokumentace pro nás, kteří musíme schválit změnu.
+Je však důležité říci, že testy jsou při kódování s agenty nepostradatelné. AI není deterministická, takže potřebujeme spolehlivé brány, které dokáží validovat náš software. Testy fungují jak jako zpětná vazba pro agenta, tak i jako dokumentace pro nás, kteří musíme schválit změnu.
 
 Psát testy je dnes nekonečně jednodušší, než to bylo před AI. Ale AI agent se nemůže jen tak testovat sám.
 
@@ -607,45 +607,45 @@ přechod:
 ```
 Myslím, že všichni pochopili, že guardrails řídí a vedou workflow, zatímco testy jsou deterministické pevné body (brány), které drží agenta v chodu, dokud nejsou splněny.
 
-Instrukce a guardrails řídí pravděpodobnostní model. Jsou důležité, ale jsou to chování vodicí pokyny - ne vynucování.
+Instrukce a guardrails řídí pravděpodobnostní model. Jsou důležité, ale slouží jako behaviorální vodítko – nikoli jako vynucování.
 
-Deterministické nástroje běží nezávisle na pozornosti agenta: kompilátor, schémata, oprávnění, kontroly architektury a blokující testy. To neznamená, že kontrola je úplná, nebo že test je nutně správný. Lidé musí testovací orákulum stále reviewovat.
+Deterministické nástroje běží nezávisle na pozornosti agenta: kompilátor, schémata, oprávnění, kontroly architektury a blokující testy. To neznamená, že kontrola je úplná, nebo že test je nutně správný. Lidé si stále musí prohlédnout testovací orákulum.
 
 Pull request shromažďuje požadavek, diff, výsledky testů, předpoklady, nevyřešená rizika a reprodukční příkazy. Build, statické kontroly a testy chování blokují. Kompetentní osoba přijímá strategická rozhodnutí a vydání.
 ```
 
-### NOTE-026 | poznámka: none
+### NOTE-026 | poznámka: Přeformulování věty
 ```
-Návrh agenta je hodnotný teprve tehdy, když můžeme smyčku uzavřít úplně. Než smyčka může jednat, musí mít doménový kontext: strukturu projektu, znalost produktu a verzí, pravidla a záměr. Projekt pak musí být možné sestavit reprodukovatelně. Musíme být schopni spustit řízenou simulaci, vyvolat stav, pozorovat proměnné a logbook a porovnat výsledek s požadavkem.
+Návrh agenta je cenný teprve tehdy, když můžeme smyčku uzavřít úplně. Než smyčka může jednat, musí mít doménový kontext: strukturu projektu, znalost produktu a verzí, pravidla a záměr. Projekt pak musí být možné sestavit reprodukovatelně. Musíme být schopni spustit řízenou simulaci, vyvolat stav, pozorovat proměnné a logbook a porovnat výsledek s požadavkem.
 
 Na snímku vidíme guardrails prostřednictvím instrukcí a skills, poté research přes AS-HELP, BR-COMMUNITY, GitHub a cloudový AS-COPILOT MCP. Automation Studio čte a zapisuje kód prostřednictvím editoru Main.st, zatímco as sestavuje, simuluje, čte proměnné a čte logbook.
 
-DevOps provádí známou sekvenci deterministicky. Agent volí další ohraničenou akci na základě zpětné vazby. Proto je důležité, aby stejnou command contract mohl používat inženýr, test, pipeline i agent.
+DevOps provádí známou sekvenci deterministicky. Agent volí další ohraničenou akci na základě zpětné vazby. Je proto důležité, aby stejný příkazový kontrakt mohl používat inženýr, testovací tým, pipeline a agent.
 
 Přechod: To je přesně ta cesta, kterou samotné B&R prošlo.
 ```
 
-### NOTE-027 | poznámka: none
+### NOTE-027 | poznámka: Přeformulování věty
 ```
 [CLICK]
-Lidé se často organizují do kanban swimlanes podle odborné disciplíny: HMI, safety, control a hardware. <b>horizontal slices</b> To je racionální způsob práce, když je zaměření omezené a když různí lidé vlastní různé odbornosti. Je to omezení, které máme jako lidé. Máme malou krátkodobou paměť a jsme špatní v multitaskingu / přepínání kontextu.
+Lidé se často organizují do kanban tabulkách podle odborné disciplíny: HMI, safety, control a hardware. <b>horizontal slices</b> To je racionální způsob práce, když je zaměření omezené a když různí lidé mají různé odborné znalosti. Je to omezení, které máme jako lidé. Máme malou krátkodobou paměť a jsme špatní v multitaskingu / přepínání kontextu.
 Jako lidé proto typicky děláme jednu disciplínu po druhé. Tam jsme nejproduktivnější, ale to vytváří problémy při testování. Jak otestujete HMI bez logiky? Není tam žádná zpětná vazba!
 
 [CLICK]
 
 
 [CLICK]
-Agent tato omezení nemá a může jednoduše spustit subagenty, kteří se postarají o jiné odbornosti, nebo aby izoloval a delegoval kontext. Proto může pracovat vertikálně (<b>vertical slices</b>): feature swimlanes s HMI stavem, safety kontraktem, control logikou, I/O nebo simulací a acceptance testem ve stejné krátké smyčce. To je obrovská výhoda z hlediska testování. Každou funkci lze testovat nezávisle, protože obsahuje všechny prvky.
+Agent tato omezení nemá a může jednoduše spustit subagenty, kteří se postarají o jiné odbornosti, nebo aby izoloval a delegoval kontext. Proto může pracovat vertikálně (<b>vertical slices</b>): feature swimlanes s HMI stavem, safety kontraktem, control logikou, I/O nebo simulací a akceptačním testem ve stejné krátké smyčce. To je obrovská výhoda z hlediska testování. Každou funkci lze testovat nezávisle, protože obsahuje všechny prvky.
 
 [CLICK]
-Matt Pocockův TDD skill popisuje horizontal slicing jako anti-pattern: nepiš nejdřív všechny testy a veškerou implementaci až potom. Pracuj ve vertical slices: jeden test, jedna minimální implementace, opakuj. Každý test je tracer bullet, který využívá zpětnou vazbu z předchozího cyklu. Red před green; refactor patří do fáze review.
+Matt Pocockův TDD skill popisuje horizontal slicing jako anti-pattern: nepiš nejdřív všechny testy a veškerou implementaci až potom. Pracuj ve vertical slices: jeden test, jedna minimální implementace, opakuj. Každý test je tracer bullet, který využívá zpětnou vazbu z předchozího cyklu.  Červená před zelenou; refaktorování patří do fáze kontroly.
 
 Zdroj: https://github.com/mattpocock/skills/blob/main/skills/engineering/tdd/SKILL.md
 ```
 
-### NOTE-028 | poznámka: none
+### NOTE-028 | poznámka: rejetc -> odmítnutí
 ```
-Je to stejný úkol se strojem, se kterým jsme workshop začali: chyba, řízené zastavení, reject neuzavřených lahví, zachovaný čítač, restart dávky a důkaz o dokončeném výsledku.
+Je to stejný úkol se strojem, se kterým jsme workshop začali: chyba, řízené zastavení, odmítnutí neuzavřených lahví, zachovaný čítač, restart dávky a důkaz o dokončeném výsledku.
 
 Nyní máme stavební kameny: doménovou znalost, nástroje k jednání a pozorování, guardrails, testy a deterministické brány.
 
@@ -692,7 +692,7 @@ A na to se teď podíváme blíž."
 
 ```
 
-### NOTE-031 | poznámka: none
+### NOTE-031 | poznámka: Přeformulování věty
 ```
 Pojďme se rychle podívat na dnešní cestu.
 
@@ -702,7 +702,7 @@ Pak si povíme, proč je to relevantnější než kdy dřív ve světě AI a Age
 
 Poté se podíváme na CI/CD a základní principy automatizovaného dodávání softwaru.
 
-Dále se podíváme, proč je tooling tak důležitý, a jak do toho obrazu zapadá as-cli.
+Dále se podíváme, proč je tooling tak důležitý, a jak do toho zapadá as-cli.
 
 Ale většinu času budou tvořit demoa, kde vše uvidíme v praxi.
 
@@ -750,7 +750,7 @@ AI nám pomáhá tvořit software rychleji. DevOps nám pomáhá ho dodávat kon
 
 ```
 
-### NOTE-034 | poznámka: opraveno "neměřítko" → "neškálují se"
+### NOTE-034 | poznámka: opraveno "neměřítko" → "neškálují se", kontinuální integrace (Continuous Integration)
 ```
 Zkusme se podívat, jak dodávání softwaru historicky často fungovalo.
 
@@ -786,17 +786,17 @@ Proto se musíme naučit automatizovat části procesu buildu, testování a vyd
 Ne proto, že by lidé dělali něco špatně.
 <b>Ale protože se lidé neškálují tak dobře jako software</b>.
 
-A přesně to je problém, který se snaží vyřešit Continuous Integration.
+A přesně to je problém, který se snaží vyřešit kontinuální integrace (Continuous Integration).
 
 ```
 
-### NOTE-035 | poznámka: none
+### NOTE-035 | poznámka: Přeformulování věty
 ```
 Ekonomika psaní testů se s Agentic Engineering také změnila.
 
 Historicky bylo automatizované testování v mnoha automatizačních projektech těžké obhájit.
 
-Není to proto, že by testy nikdo neměl rád. Problém je, že testy se také musí vyvíjet, udržovat a aktualizovat. U menších projektů se úsilí často jevilo větší než přínos.
+Není to proto, že by testy nikdo neměl rád. Problém je, že testy se také musí vyvíjet, udržovat a aktualizovat. U menších projektů se úsilí často zdálo větší než přínos.
 
 Ale Agentic Engineering tuto rovnici trochu mění.
 
@@ -840,8 +840,8 @@ Když to pak dáme dohromady s CD, nazýváme to CI/CD.
 CI ověřuje naše změny.
 
 Continuous Delivery (CD) balí a vydává (např. na GitHub),
-nasazuje do PLC, ale téměř vždy s člověkem, který schvaluje kdy. V IT světě je zcela běžné, že aktualizace přichází automaticky bez schválení člověkem (např. tato prezentace na GitHub Pages - aktualizuje se automaticky při pushi na GitHub). To se do OT nehodí dobře, protože to musí zapadat do plánování výroby.
-Nakonec máme část monitor, která posílá další změny zpět do našeho CI, a tak znovu dostáváme ten "efekt přesýpacích hodin", o kterém jsme mluvili na začátku.
+nasazuje do PLC, ale téměř vždy s člověkem, který schvaluje kdy. V IT světě je zcela běžné, že aktualizace přichází automaticky bez schválení člověkem (např. tato prezentace na GitHub Pages - aktualizuje se automaticky při pushi na GitHub). To se do OT nehodí, protože to musí zapadat do plánování výroby.
+Nakonec máme monitorovací část, která posílá další změny zpět do našeho CI, a tak znovu dostáváme ten "efekt přesýpacích hodin", o kterém jsme mluvili na začátku.
 
 Tomu všemu říkáme CI/CD a později k tomu máme i demo, ale předtím si musíme trochu popovídat o toolingu.
 
@@ -851,7 +851,7 @@ Tomu všemu říkáme CI/CD a později k tomu máme i demo, ale předtím si mus
 ```
 Teď jsme mluvili o CI a CD.
 Ale pořád chybí jedna důležitá otázka.
-Jak se to všechno vlastně stane?
+Jak to všechno vlastně uděláme?
 Protože pipeline nemůže kliknout myší.
 
 Vezměme si klasickou engineeringovou aplikaci.
@@ -1073,19 +1073,20 @@ Pokud by to mělo běžet headless, stačí napsat:
 npm run test:hmi
 ```
 
-### NOTE-043 | poznámka: SKIP — zdrojový text je již v angličtině, nikoli v dánštině; žádný překlad nebyl proveden
+### NOTE-043 | poznámka: přeloženo člověkem
 ```
-The goal of DevOps is not to build a perfect CI/CD system overnight.
+Cílem DevOps není vybudovat dokonalý systém CI/CD přes noc.
 
-The goal is to make one engineering workflow more repeatable than it was yesterday.
+Cílem je zajistit, aby byl jeden technický pracovní postup opakovatelnější než včera.
 
-Start with Git.
-Then automate a build.
-Then add one meaningful test.
-Then capture evidence.
-Then automate release activities.
 
-Every step creates value.
+Začněte s Gitem.
+Poté automatizujte sestavení.
+Poté přidejte jeden smysluplný test.
+Poté zaznamenejte důkazy.
+Poté automatizujte činnosti související s vydáním.
+
+Každý krok vytváří hodnotu.
 ```
 
 ### NOTE-044 | poznámka: opraveno "bringe" → "bruge" (přinést → v Dánsku obvyklý význam "používat")
