@@ -1,7 +1,7 @@
 # Event AI and DevOps
 
 ## Slides
-https://brdk-public.github.io/EventAiAndDevOps/#/2
+https://th0masis.github.io/EventAiAndDevOps/#/1
 
 ## Automation Studio CLI
 
