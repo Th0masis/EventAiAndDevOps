@@ -1,6 +1,6 @@
 <script setup lang="ts">
 const iframeSource = (() => {
-  if (!import.meta.env.DEV) return 'https://www.skills.sh/'
+  if (!import.meta.env.DEV) return ''
   if (typeof window === 'undefined') return ''
 
   const currentPort = Number(window.location.port || (window.location.protocol === 'https:' ? 443 : 80))
@@ -22,5 +22,15 @@ const iframeSource = (() => {
       loading="eager"
       referrerpolicy="strict-origin-when-cross-origin"
     ></iframe>
+    <div v-else class="skills-embed-fallback">
+      <div class="skills-embed-fallback-mark">SKILLS<span>.SH</span></div>
+      <div class="skills-embed-fallback-copy">
+        <strong>Open agent skills ecosystem</strong>
+        <span>Browse reusable skills for coding, research, testing, and automation workflows.</span>
+      </div>
+      <div class="skills-embed-fallback-tags">
+        <span>engineering</span><span>automation</span><span>testing</span><span>devops</span>
+      </div>
+    </div>
   </div>
 </template>
