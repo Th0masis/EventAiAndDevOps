@@ -1,7 +1,7 @@
 # Event AI and DevOps
 
 ## Slides
-[th0masis.github.io/EventAiAndDevOps](https://th0masis.github.io/EventAiAndDevOps/#/1)
+https://th0masis.github.io/EventAiAndDevOps/#/1
 
 ## Automation Studio CLI
 
